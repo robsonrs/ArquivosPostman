@@ -1,0 +1,17 @@
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\bin\Debug\net5.0\AnalisarPostman.exe
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\bin\Debug\net5.0\AnalisarPostman.deps.json
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\bin\Debug\net5.0\AnalisarPostman.runtimeconfig.json
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\bin\Debug\net5.0\AnalisarPostman.runtimeconfig.dev.json
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\bin\Debug\net5.0\AnalisarPostman.dll
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\bin\Debug\net5.0\ref\AnalisarPostman.dll
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\bin\Debug\net5.0\AnalisarPostman.pdb
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\obj\Debug\net5.0\AnalisarPostman.csproj.AssemblyReference.cache
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\obj\Debug\net5.0\AnalisarPostman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\obj\Debug\net5.0\AnalisarPostman.AssemblyInfoInputs.cache
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\obj\Debug\net5.0\AnalisarPostman.AssemblyInfo.cs
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\obj\Debug\net5.0\AnalisarPostman.csproj.CoreCompileInputs.cache
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\obj\Debug\net5.0\AnalisarPostman.dll
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\obj\Debug\net5.0\ref\AnalisarPostman.dll
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\obj\Debug\net5.0\AnalisarPostman.pdb
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\obj\Debug\net5.0\AnalisarPostman.genruntimeconfig.cache
+C:\Users\robso\Estudos\Tecnologia\AnalisarPostman\AnalisarPostman\bin\Debug\net5.0\Newtonsoft.Json.dll
